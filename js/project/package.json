@@ -13,6 +13,6 @@
   "author": "shubham338",
   "license": "ISC",
   "dependencies": {
-    "libphonenumber-js": "^1.7.22"
+    "libphonenumber-js": "^1.10.26"
   }
 }
